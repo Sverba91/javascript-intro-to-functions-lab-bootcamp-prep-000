@@ -4,5 +4,5 @@ function shout(string) {
 }
 
 function shout(string) {
-  console.log.toallcaps()
+  console.log.toaAllcaps()
 }
