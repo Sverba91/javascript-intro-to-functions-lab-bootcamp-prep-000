@@ -15,4 +15,3 @@ function sayHiToGrandma(string) {
   if string === string.toLowercase() //if the string is lowercase
     return "I can't hear you!"
   }
-
